@@ -1,0 +1,11 @@
+node_modules
+.next
+dist
+build
+.git
+.cache
+/.idea
+.vscode
+.env*
+pnpm-lock.yaml
+Dockerfile
